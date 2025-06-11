@@ -76,5 +76,5 @@ exclude = [
     "docs/conf.py",
 ]
 
-[tool.bdist_wheel]Add commentMore actions
+[tool.bdist_wheel]
 universal = true
